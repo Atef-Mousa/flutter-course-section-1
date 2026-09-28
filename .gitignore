@@ -1,0 +1,10 @@
+# Practice / testing files (not part of course content)
+test*.dart
+test/
+test_*/
+
+# Dart / IDE
+.dart_tool/
+build/
+.idea/
+.vscode/
