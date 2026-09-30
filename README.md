@@ -17,6 +17,7 @@ Dart language basics covered in section one.
 | OOP — inheritance | `oop/inhiratance/` |
 | OOP — polymorphism | `oop/polymorphism/` |
 | OOP — abstraction & interfaces | `oop/abstraction/` |
+| **Dart intro from zero (18 lessons)** | [`dart_intro/`](dart_intro/README.md) |
 
 ## Running
 
